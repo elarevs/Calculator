@@ -34,7 +34,6 @@ class MainViewController: UIViewController {
     }()
 
     private let mainStackView = MainStackView()
-    
     private let calculationModel = CalculationModel()
     
     override func viewDidLoad() {
