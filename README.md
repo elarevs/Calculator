@@ -4,14 +4,14 @@
 
 *The classic version of calculator with addition, substraction, division, multyplication, percents.*
 
-##Stack
+## Stack
 
 * UIKit
 * MVC
 * UIView, UIButton, UILabel, UIStackView
 * No Storyboard (code only)
 
-##Screens
+## Screens
 
 <p float="left">
   <img src="/CalculatorScreen1.png" width="220" />
